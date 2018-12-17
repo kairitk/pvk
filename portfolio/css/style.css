@@ -14,3 +14,9 @@ a {
 .progress {
     height: 34px;
 }
+footer {
+    margin-top: 150px;
+}
+#download-resume {
+    margin-left: 50px;
+}
